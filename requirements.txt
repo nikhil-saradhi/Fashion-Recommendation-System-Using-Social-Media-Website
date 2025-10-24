@@ -1,0 +1,6 @@
+python=3.6
+
+instaloder
+MySQL connector
+
+sql file name= network.sql

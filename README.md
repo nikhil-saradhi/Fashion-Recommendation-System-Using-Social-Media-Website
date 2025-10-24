@@ -1,2 +1,2 @@
-# Fashion-Recommendation-System-Using-Social-Media-Website
-A fashion recommendation system using machine learning and deep learning that analyzes user preferences, browsing patterns, and social media trends to provide personalized style suggestions. Its main objective is to deliver intelligent, real-time recommendations by integrating trend analysis, image recognition,user data, enhancing user experience.
+# fashion-recommender-system
+A Deep Learning based Fashion Recommender System using the ResNET50
